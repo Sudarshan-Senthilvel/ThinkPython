@@ -162,8 +162,3 @@ flower(bob, 10, 40.0, 80.0)
 
 move(bob, 100)
 flower(bob, 20, 140.0, 20.0)
-
-turtle.mainloop()
-
-
-
